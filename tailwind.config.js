@@ -8,6 +8,7 @@ module.exports = {
         "weather-third": "#2fae3a",
         "weather-forth": "#d73434",
         "weather-fifth": "#984ab7",
+        "weather-sixth": "#d522b1",
       },
     },
     fontFamily: {
