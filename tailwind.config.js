@@ -10,6 +10,7 @@ module.exports = {
         "weather-fifth": "#984ab7",
         "weather-sixth": "#d522b1",
         "weather-seventh": "#162b61",
+        "weather-www": "#162b61",
       },
     },
     fontFamily: {
